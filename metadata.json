@@ -1,0 +1,7 @@
+{
+  "name": "Orange Gardien / hearU",
+  "description": "An advanced anti-scam protection assistant featuring real-time call analysis, SMS phishing detection, and RGPD-compliant onboarding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
